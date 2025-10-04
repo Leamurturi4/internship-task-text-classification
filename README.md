@@ -1,6 +1,6 @@
 📰 News Category Classifier
 
-A complete machine learning system for text classification, developed for the LinkPlus AI Internship Challenge.
+A complete machine learning system for text classification.
 The model classifies news articles into one of four categories: World, Sports, Business, or Sci/Tech.
 
 📌 Project Overview
